@@ -254,7 +254,6 @@ http://localhost:3001/checkout?order_id=YOUR_ORDER_ID
 ## 👤 Author
 
 **Amrutha Immidisetti**  
-GitHub: https://github.com/AmruthaImmidisetti
 
 ---
 
