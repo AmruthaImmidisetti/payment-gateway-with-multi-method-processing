@@ -223,7 +223,7 @@ Included screenshots:
 A complete end-to-end demo video is provided here:
 
 🔗 **Video URL:**  
-👉 _PASTE YOUR VIDEO LINK HERE (Google Drive / YouTube / OneDrive)_
+👉 https://drive.google.com/file/d/183JiEd1e83kk1QRmsA1ia_3-_sryrsso/view?usp=sharing
 
 The video demonstrates:
 1. Creating an order using the API
